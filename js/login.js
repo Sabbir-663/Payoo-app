@@ -7,7 +7,7 @@ document.getElementById('button-login').addEventListener('click',function(event)
 
     if (phoneNumber==="0123456789" && pinNumber==="2024"){
         console.log('You are Welcome !!!! ^_^');
-        window.location.href ='/home.html'
+        window.location.href ='../home.html'
         
     }
     else{
