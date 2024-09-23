@@ -11,7 +11,7 @@ document.getElementById('button-login').addEventListener('click',function(event)
         
     }
     else{
-        alert('Ke Tumi? ');
+        alert('Ke Tumi?');
         
     }
 
